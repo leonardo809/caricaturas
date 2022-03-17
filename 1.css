@@ -1,0 +1,586 @@
+<style type="text/css">
+html,body{
+	width:100%;
+	height:100%;
+	margin: 0;
+}
+.CORAJE :hover{
+	width:484px;
+	height:232px;
+	position:absolute;
+	left: 0%;
+	top:0%;
+}
+.CORAJE {
+	width:484px;
+	height:232px;
+	position:absolute;
+	left: 2%;
+	top:48%;
+}
+.NUMERO1{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 70%;
+	top:48%;
+	
+}
+.NUMERO1 :hover{
+	width:384px;
+	height:232px;
+	position:absolute;
+	left: 0%;
+	top:0%;
+	
+}
+.danny{
+	width:284px;
+	height:432px;
+	position:absolute;
+	left: 40%;
+	top:48%;
+}
+.danny :hover{
+	width:400px;
+	height:232px;
+	position:absolute;
+	left: 0%;
+	top:0%;
+}
+.looney{
+	width:384px;
+	height:332px;
+	position:absolute;
+	left: 3%;
+	top:95%;
+}
+.looney :hover{
+	width:384px;
+	height:262px;
+	position:absolute;
+	left: 0%;
+	top:0%;
+}
+.avatar{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 62%;
+	top:95%;
+	
+}
+.avatar :hover{
+	width:450px;
+	height:250px;
+	position:absolute;
+	left: 0%;
+	top: 0%;
+	
+}
+.animaniacs{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 40%;
+	top:95%;
+}
+.animaniacs :hover{
+	width:284px;
+	height:300px;
+	position:absolute;
+	left: 0%;
+	top: 0%;
+}
+
+.ben{
+	width:384px;
+	height:332px;
+	position:absolute;
+	left: 7%;
+	top:142%;
+}
+.ben :hover{
+	width:284px;
+	height:300px;
+	position:absolute;
+	left: 0%;
+	top: 0%;
+}
+.bob{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 70%;
+	top:142%;
+}
+.bob :hover{
+	width:384px;
+	height:232px;
+	position:absolute;
+	left: 0%;
+	top: 0%;
+}
+.billymandy{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 35%;
+	top:142%;
+}
+.billymandy :hover{
+	width:400px;
+	height:250px;
+	position:absolute;
+	left: 0%;
+	top: 0%;
+}
+.johnny{
+	width:384px;
+	height:332px;
+	position:absolute;
+	left: 7%;
+	top:189%;
+}
+.johnny :hover{
+	width:370px;
+	height:332px;
+	position:absolute;
+	left: 0%;
+	top: 0%;
+}
+.dragon{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 70%;
+	top:189%;
+	
+}
+.dragon :hover{
+	width:384px;
+	height:232px;
+	position:absolute;
+	left: 0%;
+	top:0%;
+	
+}
+.dexter{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 35%;
+	top:189%;
+}
+.dexter :hover{
+	width:384px;
+	height:232px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.death{
+	width:384px;
+	height:332px;
+	position:absolute;
+	left: 3%;
+	top:245%;
+}
+.death :hover{
+	width:384px;
+	height:132px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.tigre{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 40%;
+	top:236%;
+}
+.tigre :hover{
+	width:284px;
+	height:232px;
+	position:absolute;
+	
+	left: 0%;
+	top: 0%;
+}
+.eva{
+	width:384px;
+	height:332px;
+	position:absolute;
+	left: 0%;
+	top:283%;
+}
+.eva :hover{
+	width:484px;
+	height:232px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.fop{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 70%;
+	top:236%;
+	
+}
+.fop :hover{
+	width:384px;
+	height:232px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+	
+}
+.zim{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 39%;
+	top:283%;
+}
+.zim :hover{
+	width:384px;
+	height:250px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.chicas{
+	width:384px;
+	height:332px;
+	position:absolute;
+	left: 0%;
+	top:330%;
+}
+.chicas :hover{
+	width:484px;
+	height:232px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.mansion{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 70%;
+	top:283%;
+	
+}
+.mansion :hover{
+	width:284px;
+	height:270px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+	
+}
+.lucha{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 42%;
+	top:330%;
+}
+.lucha :hover{
+	width:350px;
+	height:270px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.naruto{
+	width:384px;
+	height:332px;
+	position:absolute;
+	left: 0%;
+	top:377%;
+}
+.naruto :hover{
+	width:550px;
+	height:232px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.rugrats{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 70%;
+	top:330%;
+	
+}
+.rugrats :hover{
+	width:384px;
+	height:250px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+	
+}
+.rs{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 42%;
+	top:377%;
+}
+.rs :hover{
+	width:384px;
+	height:232px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.ss{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 35%;
+	top:424%;
+}
+.ss :hover{
+	width:384px;
+	height:250px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.cat{
+	width:384px;
+	height:332px;
+	position:absolute;
+	left: 5%;
+	top:424%;
+}
+.cat :hover{
+	width:300px;
+	height:300px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.cc{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 70%;
+	top:370%;
+	
+}
+.cc :hover{
+	width:384px;
+	height:350px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+	
+}
+.tt{
+	width:384px;
+	height:432px;
+	position:absolute;
+	left: 70%;
+	top:424%;
+}
+.tt :hover{
+	width:384px;
+	height:350px;
+	position:absolute;
+	
+	left: 0%;
+	top:0%;
+}
+.log{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 28%;
+	top:55%;
+}
+.log2{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 35%;
+	top:55%;
+}
+.log3{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 16%;
+	top:55%;
+}
+.log4{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 30%;
+	top:55%;
+}
+.log5{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 25%;
+	top:55%;
+}
+.log6{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 30%;
+	top:65%;
+}
+.log7{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 20%;
+	top:55%;
+}
+.log8{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 33%;
+	top:55%;
+}
+.log9{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 40%;
+	top:55%;
+}
+.log10{
+	width:484px;
+	height:432px;
+	position:absolute;
+	left: 35%;
+	top:60%;
+}
+.info{
+	width:45;
+	height:70;
+	position:absolute;
+	left: 5%;
+	top:110%;
+	right: 5%;
+}
+.info2{
+	width:45;
+	height:70;
+	position:absolute;
+	left: 5%;
+	top:115%;
+	right: 5%;
+}
+.info3{
+	width:45;
+	height:70;
+	position:absolute;
+	left: 5%;
+	top:120%;
+	right: 5%;
+}
+.info4{
+	width:45;
+	height:70;
+	position:absolute;
+	left: 5%;
+	top:105%;
+	right: 5%;
+}
+.info5{
+	width:45;
+	height:70;
+	position:absolute;
+	left: 5%;
+	top:115%;
+	right: 5%;
+}
+.info6{
+	width:45;
+	height:70;
+	position:absolute;
+	left: 5%;
+	top:95%;
+	right: 5%;
+}
+.header{
+	background-image: url("img/re.jpg");
+	width:100%;
+	height:0% auto;
+		z-index: 1;	
+}
+.secheader{
+    width:100%;
+	height:10%;
+		z-index: 2;
+		vertical-align: top;
+}
+#navegador ul{
+	list-style-type: none;
+   text-align: left;
+   background-color:#7c3d98;
+   padding: 20px 20px ;
+   top: 0%;
+   margin:0;
+}
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: 0 0px 0 0;
+}
+#navegador li a {
+   padding: 20px 20px 20px 20px ;
+   color: #ffffff;
+   background-color: #7c3d98;
+   border: 0px solid #ccc;
+   text-decoration: none;
+   
+}
+#navegador li a:hover{
+   background-color: #333333;
+   color: #ffffff;
+}
+.juego
+{
+	position: absolute; 
+	left: 13%;
+	top:60%;
+	margin:0;
+}
+.video
+{
+	position: absolute; 
+	left: 7%;
+	
+	top:60%;
+	margin:0;
+}
+</style>
